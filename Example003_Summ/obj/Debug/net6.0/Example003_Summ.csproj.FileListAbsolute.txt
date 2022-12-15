@@ -1,0 +1,15 @@
+F:\Java\C#\Example003_Summ\bin\Debug\net6.0\Example003_Summ.exe
+F:\Java\C#\Example003_Summ\bin\Debug\net6.0\Example003_Summ.deps.json
+F:\Java\C#\Example003_Summ\bin\Debug\net6.0\Example003_Summ.runtimeconfig.json
+F:\Java\C#\Example003_Summ\bin\Debug\net6.0\Example003_Summ.dll
+F:\Java\C#\Example003_Summ\bin\Debug\net6.0\Example003_Summ.pdb
+F:\Java\C#\Example003_Summ\obj\Debug\net6.0\Example003_Summ.csproj.AssemblyReference.cache
+F:\Java\C#\Example003_Summ\obj\Debug\net6.0\Example003_Summ.GeneratedMSBuildEditorConfig.editorconfig
+F:\Java\C#\Example003_Summ\obj\Debug\net6.0\Example003_Summ.AssemblyInfoInputs.cache
+F:\Java\C#\Example003_Summ\obj\Debug\net6.0\Example003_Summ.AssemblyInfo.cs
+F:\Java\C#\Example003_Summ\obj\Debug\net6.0\Example003_Summ.csproj.CoreCompileInputs.cache
+F:\Java\C#\Example003_Summ\obj\Debug\net6.0\Example003_Summ.dll
+F:\Java\C#\Example003_Summ\obj\Debug\net6.0\refint\Example003_Summ.dll
+F:\Java\C#\Example003_Summ\obj\Debug\net6.0\Example003_Summ.pdb
+F:\Java\C#\Example003_Summ\obj\Debug\net6.0\Example003_Summ.genruntimeconfig.cache
+F:\Java\C#\Example003_Summ\obj\Debug\net6.0\ref\Example003_Summ.dll

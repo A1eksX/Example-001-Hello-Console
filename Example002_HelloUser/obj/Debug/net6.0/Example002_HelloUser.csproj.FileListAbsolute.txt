@@ -1,0 +1,15 @@
+F:\Java\C#\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.exe
+F:\Java\C#\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.deps.json
+F:\Java\C#\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.runtimeconfig.json
+F:\Java\C#\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.dll
+F:\Java\C#\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.pdb
+F:\Java\C#\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.AssemblyReference.cache
+F:\Java\C#\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+F:\Java\C#\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfoInputs.cache
+F:\Java\C#\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfo.cs
+F:\Java\C#\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+F:\Java\C#\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.dll
+F:\Java\C#\Example002_HelloUser\obj\Debug\net6.0\refint\Example002_HelloUser.dll
+F:\Java\C#\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.pdb
+F:\Java\C#\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.genruntimeconfig.cache
+F:\Java\C#\Example002_HelloUser\obj\Debug\net6.0\ref\Example002_HelloUser.dll

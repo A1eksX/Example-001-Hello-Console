@@ -1,0 +1,15 @@
+F:\Java\C#\Example004_Div\bin\Debug\net6.0\Example004_Div.exe
+F:\Java\C#\Example004_Div\bin\Debug\net6.0\Example004_Div.deps.json
+F:\Java\C#\Example004_Div\bin\Debug\net6.0\Example004_Div.runtimeconfig.json
+F:\Java\C#\Example004_Div\bin\Debug\net6.0\Example004_Div.dll
+F:\Java\C#\Example004_Div\bin\Debug\net6.0\Example004_Div.pdb
+F:\Java\C#\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.AssemblyReference.cache
+F:\Java\C#\Example004_Div\obj\Debug\net6.0\Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+F:\Java\C#\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfoInputs.cache
+F:\Java\C#\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfo.cs
+F:\Java\C#\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.CoreCompileInputs.cache
+F:\Java\C#\Example004_Div\obj\Debug\net6.0\Example004_Div.dll
+F:\Java\C#\Example004_Div\obj\Debug\net6.0\refint\Example004_Div.dll
+F:\Java\C#\Example004_Div\obj\Debug\net6.0\Example004_Div.pdb
+F:\Java\C#\Example004_Div\obj\Debug\net6.0\Example004_Div.genruntimeconfig.cache
+F:\Java\C#\Example004_Div\obj\Debug\net6.0\ref\Example004_Div.dll
