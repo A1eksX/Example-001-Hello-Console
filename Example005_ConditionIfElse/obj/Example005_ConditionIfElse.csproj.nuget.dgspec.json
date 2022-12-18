@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Java\\C#\\Example005_ConditionIfElse\\Example005_ConditionIfElse.csproj": {}
+    "F:\\Java\\C#\\Lesson\\Example005_ConditionIfElse\\Example005_ConditionIfElse.csproj": {}
   },
   "projects": {
-    "F:\\Java\\C#\\Example005_ConditionIfElse\\Example005_ConditionIfElse.csproj": {
+    "F:\\Java\\C#\\Lesson\\Example005_ConditionIfElse\\Example005_ConditionIfElse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Java\\C#\\Example005_ConditionIfElse\\Example005_ConditionIfElse.csproj",
+        "projectUniqueName": "F:\\Java\\C#\\Lesson\\Example005_ConditionIfElse\\Example005_ConditionIfElse.csproj",
         "projectName": "Example005_ConditionIfElse",
-        "projectPath": "F:\\Java\\C#\\Example005_ConditionIfElse\\Example005_ConditionIfElse.csproj",
+        "projectPath": "F:\\Java\\C#\\Lesson\\Example005_ConditionIfElse\\Example005_ConditionIfElse.csproj",
         "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "F:\\Java\\C#\\Example005_ConditionIfElse\\obj\\",
+        "outputPath": "F:\\Java\\C#\\Lesson\\Example005_ConditionIfElse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config"
